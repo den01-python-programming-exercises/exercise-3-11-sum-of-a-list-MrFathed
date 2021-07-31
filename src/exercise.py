@@ -14,7 +14,7 @@ def main():
     for number in numbers:
         result += number
 
-    print("Sum:", result)
+    print("Sum: " +str(result))
 
 if __name__ == '__main__':
     main()
